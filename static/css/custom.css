@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    line-height: 2em;
+    overflow-x: hidden;
+	background-color:black;
+    background-image: url("office.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#theImage{
+    margin-left:20%;
+    height: 400px;
+    width: 600px;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
